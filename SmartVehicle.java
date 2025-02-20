@@ -11,7 +11,7 @@ public class SmartVehicle {
     private boolean laneAssistEnabled;
     private boolean speedControlEnabled;
 
-    // Constructor to initialize all features to off
+    // Constructor to initialize all features to off.
     public SmartVehicle() {
         this.autopilotEnabled = false;
         this.obstacleDetectionEnabled = false;

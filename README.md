@@ -4,7 +4,7 @@
 
 - 🔭 Synopsis : [Link](https://drive.google.com/file/d/1Mx_P6TNc6055X7iSLwRWQVxk9pOSRR-P/view?usp=drivesdk)
 
-- 📫 For any Queries : **princebhatt316@gmail.com**
+- 📫 For any Queries about Project : **princebhatt316@gmail.com**
 
 - 🤝 Contributor : **[vanshika-nema](https://github.com/vanshika-nema)**
 
