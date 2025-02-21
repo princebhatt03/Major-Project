@@ -2,7 +2,7 @@
 <h3 align="left">IOT Based Automatic Vehicle that can detect obstacles in front of it and act accordingly</h3>
 <p align="left">IoT-based Automatically Obstacle Detecting Vehicle that integrates advanced technologies to enhance vehicular safety, user convenience, and operational efficiency. This vehicle leverages the power of IoT to create an intelligent system capable of real-time obstacle detection, collision prevention, and dual-mode operation, making it suitable for both autonomous and manual driving scenarios.</p>
 
-- 🔭 Synopsis : [Link](https://drive.google.com/file/d/1Mx_P6TNc6055X7iSLwRWQVxk9pOSRR-P/view?usp=drivesdk)
+- 🔭 Synopsis : **[Link](https://drive.google.com/file/d/1Mx_P6TNc6055X7iSLwRWQVxk9pOSRR-P/view?usp=drivesdk)**
 
 - 📫 For any Queries about Project : **princebhatt316@gmail.com**
 
