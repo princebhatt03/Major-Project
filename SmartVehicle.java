@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 public class SmartVehicle {
 
     // Vehicle features status
+    // Time Added
     private boolean autopilotEnabled;
     private boolean obstacleDetectionEnabled;
     private boolean gpsEnabled;
