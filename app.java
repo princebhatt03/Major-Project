@@ -3,6 +3,6 @@ public class app {
         System.out.println("Major Project Source Code");
         System.out.println("This is the main class");
         // Just Commit any changes
-        // Provide Commit Message: "Initialize project with basic folder structure"
+        // Provide Commit Message: "Software Features added, New Branch Added, Bugs fixed"
     }
 }
