@@ -1,6 +1,13 @@
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
+// This is the Demo Code for Major Project that consists of a various class that will be used within the project.
+// The SmartVehicle class represents a vehicle with various smart features such as autopilot, obstacle detection, GPS navigation, gas detection, lane assist, and speed control.
+// The class provides methods to enable and simulate these features, as well as to check for obstacles, harmful gases, and navigate to a destination.
+// The main function demonstrates the functionality of the SmartVehicle class by enabling features, performing vehicle operations, and sending data to a mobile device.
+// The class uses random values and time delays to simulate real-world scenarios and interactions between the vehicle's smart features.
+// The SmartVehicle class can be further extended and customized to include additional features and functionalities based on specific requirements and use cases.
+
 public class SmartVehicle {
 
     // Vehicle features status
@@ -105,7 +112,8 @@ public class SmartVehicle {
 
     // Function to simulate the navigation process
     private void simulateNavigation() {
-        String[] navigationSteps = {"Starting route", "Turn left at the next junction", "Go straight for 5 miles", "Arriving at destination"};
+        String[] navigationSteps = { "Starting route", "Turn left at the next junction", "Go straight for 5 miles",
+                "Arriving at destination" };
         for (String step : navigationSteps) {
             System.out.println(step);
             try {
@@ -167,7 +175,6 @@ public class SmartVehicle {
     // Main function to demonstrate the SmartVehicle functionality
     public static void main(String[] args) {
         SmartVehicle vehicle = new SmartVehicle();
-
         // Enable vehicle features
         vehicle.enableAutopilot();
         vehicle.enableObstacleDetection();
@@ -183,7 +190,7 @@ public class SmartVehicle {
             vehicle.checkForHarmfulGases();
             vehicle.navigateToDestination("City Center");
             vehicle.autopilotBehavior();
-            
+
             // Simulate sending data to mobile
             vehicle.sendDataToMobile("Cycle " + (i + 1) + ": Vehicle status: OK, No issues detected.");
         }
