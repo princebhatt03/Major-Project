@@ -1,13 +1,7 @@
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-// This is the Demo Code for Major Project that consists of a various class that will be used within the project.
-// The SmartVehicle class represents a vehicle with various smart features such as autopilot, obstacle detection, GPS navigation, gas detection, lane assist, and speed control.
-// The class provides methods to enable and simulate these features, as well as to check for obstacles, harmful gases, and navigate to a destination.
-// The main function demonstrates the functionality of the SmartVehicle class by enabling features, performing vehicle operations, and sending data to a mobile device.
-// The class uses random values and time delays to simulate real-world scenarios and interactions between the vehicle's smart features.
-// The SmartVehicle class can be further extended and customized to include additional features and functionalities based on specific requirements and use cases.
-// Commit and Done.
+
 
 public class SmartVehicle {
 
